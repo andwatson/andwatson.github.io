@@ -4,7 +4,7 @@ collection: teaching
 type: "Prep."
 permalink: /teaching/tectono
 venue: "School of Earth and Environment, University of Leeds"
-date: 2020
+date: 2020-01-01
 location: "Leeds, UK"
 ---
 
