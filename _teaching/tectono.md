@@ -1,7 +1,7 @@
 ---
 title: "Tectonophysics - conversion from Matlab to Python"
 collection: teaching
-type: "Prep."
+type: "Undergraduate course"
 permalink: /teaching/tectono
 venue: "School of Earth and Environment, University of Leeds"
 date: 2020-01-01
