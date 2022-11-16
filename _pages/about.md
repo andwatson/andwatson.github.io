@@ -12,7 +12,7 @@ I'm a final year postgraduate researcher in the Institute of Geophysics and Tect
 
 I started out focusing on the Main Recent Fault, an 800 km long strike-slip fault in the Zagros Mountains, western Iran. We published the first InSAR-derived slip rate for the fault, and the first geodetically-determined estimate of the locking depth, both of which are key to assesments of the seismic potential of this major fault. We used fives `frames' from LiCS, covering an area of 400 x 200 km, to derive average surface velocities, which we in turn used to constrain a model for the fault through a bayesian inversion.
 
-We have now expended our InSAR processing to cover all of Iran, using over 80,000 interferograms to map surface velocities across an area of 2.3 million km^2. The figure below shows decomposed East and Vertical velocities for Iran at a 1 km resolution. We aim to publish these results in 2023.
+We have now expended our InSAR processing to cover all of Iran, using over 80,000 interferograms to map surface velocities across an area of 2.3 million km<sup>2</sup>. The figure below shows decomposed East and Vertical velocities for Iran at a 1 km resolution. We aim to publish these results in 2023.
 
 <img src="https://github.com/andwatson/andwatson.github.io/blob/master/images/decomp_east_up.png?raw=true" style="display: block; margin: auto;" />
 
