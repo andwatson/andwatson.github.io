@@ -14,8 +14,7 @@ I started out focusing on the Main Recent Fault, an 800 km long strike-slip faul
 
 We have now expended our InSAR processing to cover all of Iran, using over 80,000 interferograms to map surface velocities across an area of 2.3 million km^2. The figure below shows decomposed East and Vertical velocities for Iran at a 1 km resolution. We aim to publish these results in 2023.
 
-##![](https://github.com/andwatson/andwatson.github.io/images/decomp_east_up.png)
-<img src="https://github.com/andwatson/andwatson.github.io/images/decomp_east_up.png" style="display: block; margin: auto;" />
+<img src="https://github.com/andwatson/andwatson.github.io/tree/master/images/decomp_east_up.png" style="display: block; margin: auto;" />
 
 I am an active member of COMET (https://comet.nerc.ac.uk/), a UK-wide research group, along with the Tectonics and Geodesy groups within the School of Earth and Environment. Before Leeds, I completed an undergraduate degree and a Masters degree at Durham University, the latter exploring multi-objective optimisation for the automated designing of low-cost GNSS networks.
 
