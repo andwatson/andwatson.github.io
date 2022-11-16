@@ -1,0 +1,9 @@
+---
+title: "Interseismic Strain Accumulation Across the Main Recent Fault, SW Iran, From Sentinel‐1 InSAR Observations"
+collection: publications
+#permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'The Main Recent Fault is a major right-lateral strike-slip fault in the western Zagros mountains of Iran. Recent geodetic and geological studies estimate a low slip rate of 1–6 mm/yr at an unknown depth which, when combined with a non-ideal fault geometry, makes the Main Recent Fault a difficult but interesting target for InSAR analysis. This analysis would further cement the estimated slip rate and provide an opportunity of estimate the depth to the base of the locked seismogenic zone, both important constraints on the seismic hazard posed by the fault, as well as for understanding how oblique convergence is accommodated and partitioned across the Zagros. We use 200 Sentinel-1 SAR images from the past 5 years, spanning two ascending and two descending tracks, to estimate the first InSAR-derived slip rate and locking depth for a 300 km long section of the fault. We utilize two established processing systems, LiCSAR and LiCSBAS, to produce interferograms and perform time series analysis, respectively. We constrain north-south motion using GNSS observations, decompose our InSAR line-of-sight velocities into fault-parallel and vertical motion, and fit 1-D screw dislocation models to three fault-perpendicular profiles of fault-parallel velocity, following a Bayesian approach to estimate the posterior probability distribution on the fault parameters. We estimate an interseismic slip velocity of 2.4 ± 1.2 mm/yr below a loosely constrained 14 km locking depth, the first such estimate for the fault, and discuss the challenges in constraining the locking depth for low magnitude interseismic signals.'
+date: 2022-01-31
+venue: 'JGR Solid Earth'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JB022674'
+---
